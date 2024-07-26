@@ -1,5 +1,5 @@
 
-# Rainmeter Skin - Cherekonv V3
+# Rainmeter Skin - Cherekonv V4
 
 A rainmeter skin that shows essential information about the computer it is
 running on.
@@ -16,7 +16,7 @@ support" setting must be enabled. This is used to gather the following data:
 
 ## Installation
 
-Run the `CherenkovV3.0.rmskin` file and Rainmeter should automatically install
+Run the `CherenkovV4.x.rmskin` file and Rainmeter should automatically install
 the skin as well as the plugin necesarry for getting the data from HWiNFOs
 shared memory.
 
